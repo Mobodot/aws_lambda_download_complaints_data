@@ -9,4 +9,4 @@ Data Source: [Link](https://www.consumerfinance.gov/data-research/consumer-compl
 
 # === Project solution ===
 ## Code Architecture
-
+![system_architecture](archi_image/pipeline.png)
